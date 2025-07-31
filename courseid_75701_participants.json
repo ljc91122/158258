@@ -1,0 +1,649 @@
+[[{
+    "firstname": "Chen",
+    "lastname": "Chen",
+    "idnumber": "24008980",
+    "emailaddress": "2365286244@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiawei",
+    "lastname": "Chen",
+    "idnumber": "24009020",
+    "emailaddress": "chnn66@qq.com",
+    "groups": null
+},{
+    "firstname": "Minghao",
+    "lastname": "Chu",
+    "idnumber": "24009386",
+    "emailaddress": "2124531579@qq.com",
+    "groups": null
+},{
+    "firstname": "Barker",
+    "lastname": "Dang",
+    "idnumber": "24008988",
+    "emailaddress": "528364285@qq.com",
+    "groups": null
+},{
+    "firstname": "Keyu",
+    "lastname": "Ding",
+    "idnumber": "24009027",
+    "emailaddress": "120525109@qq.com",
+    "groups": null
+},{
+    "firstname": "Yida",
+    "lastname": "Dong",
+    "idnumber": "24009040",
+    "emailaddress": "1989247482@qq.com",
+    "groups": null
+},{
+    "firstname": "Yuxi",
+    "lastname": "Du",
+    "idnumber": "24009219",
+    "emailaddress": "516651423@qq.com",
+    "groups": null
+},{
+    "firstname": "Tianyi",
+    "lastname": "Fang",
+    "idnumber": "24009216",
+    "emailaddress": "1665494700@qq.com",
+    "groups": null
+},{
+    "firstname": "Yueran",
+    "lastname": "Feng",
+    "idnumber": "24009336",
+    "emailaddress": "15343100570@163.com",
+    "groups": null
+},{
+    "firstname": "Tianshuo",
+    "lastname": "Gao",
+    "idnumber": "24009350",
+    "emailaddress": "3084083988@qq.com",
+    "groups": null
+},{
+    "firstname": "Xinrui",
+    "lastname": "Gao",
+    "idnumber": "24009024",
+    "emailaddress": "3268729238@qq.com",
+    "groups": null
+},{
+    "firstname": "Xinze",
+    "lastname": "Gao",
+    "idnumber": "24009030",
+    "emailaddress": "1604657878@qq.com",
+    "groups": null
+},{
+    "firstname": "Zitong",
+    "lastname": "Gao",
+    "idnumber": "24009232",
+    "emailaddress": "1623721391@qq.com",
+    "groups": null
+},{
+    "firstname": "Fansen",
+    "lastname": "Geng",
+    "idnumber": "24008987",
+    "emailaddress": "2165043221@qq.com",
+    "groups": null
+},{
+    "firstname": "Bajin",
+    "lastname": "Gu",
+    "idnumber": "24008910",
+    "emailaddress": "2834593340@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiaying",
+    "lastname": "Gu",
+    "idnumber": "24009380",
+    "emailaddress": "3508993191@qq.com",
+    "groups": null
+},{
+    "firstname": "Mingqi",
+    "lastname": "Guo",
+    "idnumber": "24009196",
+    "emailaddress": "809090690@qq.com",
+    "groups": null
+},{
+    "firstname": "Yinchen",
+    "lastname": "Guo",
+    "idnumber": "24009205",
+    "emailaddress": "1483875459@qq.com",
+    "groups": null
+},{
+    "firstname": "Zixu",
+    "lastname": "Guo",
+    "idnumber": "24009234",
+    "emailaddress": "1599099172@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiaming",
+    "lastname": "Han",
+    "idnumber": "24009015",
+    "emailaddress": "1362750838@qq.com",
+    "groups": null
+},{
+    "firstname": "Gengchen",
+    "lastname": "Hou",
+    "idnumber": "24008992",
+    "emailaddress": "3249973180@qq.com",
+    "groups": null
+},{
+    "firstname": "Qichen",
+    "lastname": "Hu",
+    "idnumber": "24009200",
+    "emailaddress": "3222420849@qq.com",
+    "groups": null
+},{
+    "firstname": "Ruwen",
+    "lastname": "Hu",
+    "idnumber": "24009207",
+    "emailaddress": "2024696996@qq.com",
+    "groups": null
+},{
+    "firstname": "Shaohan",
+    "lastname": "Hu",
+    "idnumber": "24009210",
+    "emailaddress": "3545694286@qq.com",
+    "groups": null
+},{
+    "firstname": "Yibin",
+    "lastname": "Huang",
+    "idnumber": "24009222",
+    "emailaddress": "934668955@qq.com",
+    "groups": null
+},{
+    "firstname": "Ying",
+    "lastname": "Jin",
+    "idnumber": "24009209",
+    "emailaddress": "2817863922@qq.com",
+    "groups": null
+},{
+    "firstname": "Chuangqi",
+    "lastname": "Jing",
+    "idnumber": "24009006",
+    "emailaddress": "3490633755@qq.com",
+    "groups": null
+},{
+    "firstname": "Guoliang",
+    "lastname": "Ju",
+    "idnumber": "24008994",
+    "emailaddress": "3166141286@qq.com",
+    "groups": null
+},{
+    "firstname": "Caiyi",
+    "lastname": "Li",
+    "idnumber": "24008971",
+    "emailaddress": "2104406686@qq.com",
+    "groups": null
+},{
+    "firstname": "Fufeng",
+    "lastname": "Li",
+    "idnumber": "24009363",
+    "emailaddress": "1390003832@qq.com",
+    "groups": null
+},{
+    "firstname": "Haohan",
+    "lastname": "Li",
+    "idnumber": "24009369",
+    "emailaddress": "157614621@qq.com",
+    "groups": null
+},{
+    "firstname": "Haozhou",
+    "lastname": "Li",
+    "idnumber": "24009370",
+    "emailaddress": "3105168931@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiyuan",
+    "lastname": "Li",
+    "idnumber": "24009026",
+    "emailaddress": "my_zll@163.com",
+    "groups": null
+},{
+    "firstname": "Qianzheng",
+    "lastname": "Li",
+    "idnumber": "24009199",
+    "emailaddress": "3327959808@qq.com",
+    "groups": null
+},{
+    "firstname": "Shizhan",
+    "lastname": "Li",
+    "idnumber": "24009390",
+    "emailaddress": "zhan041005@163.com",
+    "groups": null
+},{
+    "firstname": "Shuo",
+    "lastname": "Li",
+    "idnumber": "24009391",
+    "emailaddress": "1981186621@qq.com",
+    "groups": null
+},{
+    "firstname": "Xiang",
+    "lastname": "Li",
+    "idnumber": "24009008",
+    "emailaddress": "2164647397@qq.com",
+    "groups": null
+},{
+    "firstname": "Xiangxiao",
+    "lastname": "Li",
+    "idnumber": "24009017",
+    "emailaddress": "15503218577@163.com",
+    "groups": null
+},{
+    "firstname": "Xinyu",
+    "lastname": "Li",
+    "idnumber": "24009028",
+    "emailaddress": "1511614191@qq.com",
+    "groups": null
+},{
+    "firstname": "Yanfang",
+    "lastname": "Li",
+    "idnumber": "24009328",
+    "emailaddress": "17532099616@163.com",
+    "groups": null
+},{
+    "firstname": "Yaowen",
+    "lastname": "Li",
+    "idnumber": "24009038",
+    "emailaddress": "18431209666@163.com",
+    "groups": null
+},{
+    "firstname": "Yihang",
+    "lastname": "Li",
+    "idnumber": "24009041",
+    "emailaddress": "3147401682@qq.com",
+    "groups": null
+},{
+    "firstname": "Yilin",
+    "lastname": "Li",
+    "idnumber": "24009334",
+    "emailaddress": "18810055299@163.com",
+    "groups": null
+},{
+    "firstname": "Zhuolun",
+    "lastname": "Li",
+    "idnumber": "24009223",
+    "emailaddress": "manjunmoya@163.com",
+    "groups": null
+},{
+    "firstname": "Zihao",
+    "lastname": "Liang",
+    "idnumber": "24009227",
+    "emailaddress": "81623555@qq.com",
+    "groups": null
+},{
+    "firstname": "Chaoran",
+    "lastname": "Liu",
+    "idnumber": "24008977",
+    "emailaddress": "2949882806@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiahao",
+    "lastname": "Liu",
+    "idnumber": "24009010",
+    "emailaddress": "jia316614@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiaheng",
+    "lastname": "Liu",
+    "idnumber": "24009483",
+    "emailaddress": "1527242421@qq.com",
+    "groups": null
+},{
+    "firstname": "Shiran",
+    "lastname": "Liu",
+    "idnumber": "24009213",
+    "emailaddress": "2352810280@qq.com",
+    "groups": null
+},{
+    "firstname": "Sijia",
+    "lastname": "Liu",
+    "idnumber": "24009214",
+    "emailaddress": "2233682801@qq.com",
+    "groups": null
+},{
+    "firstname": "Xinye",
+    "lastname": "Liu",
+    "idnumber": "24009325",
+    "emailaddress": "1825742950@qq.com",
+    "groups": null
+},{
+    "firstname": "Xinying",
+    "lastname": "Liu",
+    "idnumber": "24009025",
+    "emailaddress": "3153631954@qq.com",
+    "groups": null
+},{
+    "firstname": "Yuhang",
+    "lastname": "Liu",
+    "idnumber": "23022415",
+    "emailaddress": "2771634569@qq.com",
+    "groups": null
+},{
+    "firstname": "Zeming",
+    "lastname": "Liu",
+    "idnumber": "24009220",
+    "emailaddress": "2651086947@qq.com",
+    "groups": null
+},{
+    "firstname": "Zhaoxun",
+    "lastname": "Liu",
+    "idnumber": "24009360",
+    "emailaddress": "3026404925@qq.com",
+    "groups": null
+},{
+    "firstname": "Zhihao",
+    "lastname": "Liu",
+    "idnumber": "24009240",
+    "emailaddress": "2392349057@qq.com",
+    "groups": null
+},{
+    "firstname": "Zimo",
+    "lastname": "Liu",
+    "idnumber": "24009362",
+    "emailaddress": "IsaroMomo@outlook.com",
+    "groups": null
+},{
+    "firstname": "Chong",
+    "lastname": "Miao",
+    "idnumber": "24008986",
+    "emailaddress": "2903335896@qq.com",
+    "groups": null
+},{
+    "firstname": "Kaylin",
+    "lastname": "Qiu",
+    "idnumber": "24009381",
+    "emailaddress": "877869900@qq.com",
+    "groups": null
+},{
+    "firstname": "Wenxuan",
+    "lastname": "Shen",
+    "idnumber": "24009004",
+    "emailaddress": "3208393479@qq.com",
+    "groups": null
+},{
+    "firstname": "Wentao",
+    "lastname": "Shi",
+    "idnumber": "24008982",
+    "emailaddress": "3476764072@qq.com",
+    "groups": null
+},{
+    "firstname": "Angze",
+    "lastname": "Song",
+    "idnumber": "24009333",
+    "emailaddress": "15232290000@139.com",
+    "groups": null
+},{
+    "firstname": "Jiahao",
+    "lastname": "Song",
+    "idnumber": "24009371",
+    "emailaddress": "228653208@qq.com",
+    "groups": null
+},{
+    "firstname": "Pengju",
+    "lastname": "Song",
+    "idnumber": "24009198",
+    "emailaddress": "songspj@qq.com",
+    "groups": null
+},{
+    "firstname": "Spring",
+    "lastname": "Su",
+    "idnumber": "24009388",
+    "emailaddress": "3191375717@qq.com",
+    "groups": null
+},{
+    "firstname": "Mingyi",
+    "lastname": "Sun",
+    "idnumber": "24009239",
+    "emailaddress": "2875357702@qq.com",
+    "groups": null
+},{
+    "firstname": "Fengze",
+    "lastname": "Tian",
+    "idnumber": "24009359",
+    "emailaddress": "2816874450@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiaxu",
+    "lastname": "Wang",
+    "idnumber": "24009377",
+    "emailaddress": "1684724808@qq.com",
+    "groups": null
+},{
+    "firstname": "Shengbo",
+    "lastname": "Wang",
+    "idnumber": "24009389",
+    "emailaddress": "389161143@qq.com",
+    "groups": null
+},{
+    "firstname": "Shuoqi",
+    "lastname": "Wang",
+    "idnumber": "24009396",
+    "emailaddress": "863639635@qq.com",
+    "groups": null
+},{
+    "firstname": "Wanghaofan",
+    "lastname": "Wang",
+    "idnumber": "24009366",
+    "emailaddress": "2630508215@qq.com",
+    "groups": null
+},{
+    "firstname": "Yibo",
+    "lastname": "Wang",
+    "idnumber": "24009331",
+    "emailaddress": "996522138@qq.com",
+    "groups": null
+},{
+    "firstname": "Yiming",
+    "lastname": "Wang",
+    "idnumber": "24009201",
+    "emailaddress": "2817809677@qq.com",
+    "groups": null
+},{
+    "firstname": "Yixu",
+    "lastname": "Wang",
+    "idnumber": "24009335",
+    "emailaddress": "1907755315@qq.com",
+    "groups": null
+},{
+    "firstname": "Zhanmotong",
+    "lastname": "Wang",
+    "idnumber": "24009356",
+    "emailaddress": "3332711249@qq.com",
+    "groups": null
+},{
+    "firstname": "Yunhe",
+    "lastname": "Wei",
+    "idnumber": "24009354",
+    "emailaddress": "3219732169@qq.com",
+    "groups": null
+},{
+    "firstname": "Xiao",
+    "lastname": "Wu",
+    "idnumber": "24009458",
+    "emailaddress": "747286432@qq.com",
+    "groups": null
+},{
+    "firstname": "Jiayu",
+    "lastname": "Xu",
+    "idnumber": "24009364",
+    "emailaddress": "3120796868@qq.com",
+    "groups": null
+},{
+    "firstname": "William",
+    "lastname": "Xu",
+    "idnumber": "24009029",
+    "emailaddress": "2690234968@qq.com",
+    "groups": null
+},{
+    "firstname": "Xinru",
+    "lastname": "Xue",
+    "idnumber": "24009324",
+    "emailaddress": "lchen1074@gmail.com",
+    "groups": null
+},{
+    "firstname": "Bowen",
+    "lastname": "Yang",
+    "idnumber": "24008967",
+    "emailaddress": "1729226819@qq.com",
+    "groups": null
+},{
+    "firstname": "Sijia",
+    "lastname": "Yang",
+    "idnumber": "24009397",
+    "emailaddress": "1612296498@qq.com",
+    "groups": null
+},{
+    "firstname": "Xiulin",
+    "lastname": "Yang",
+    "idnumber": "24009032",
+    "emailaddress": "Y1039155192@outlook.com",
+    "groups": null
+},{
+    "firstname": "Ying",
+    "lastname": "Yang",
+    "idnumber": "24009466",
+    "emailaddress": "1794675110@qq.com",
+    "groups": null
+},{
+    "firstname": "Yunzhe",
+    "lastname": "Yang",
+    "idnumber": "24009218",
+    "emailaddress": "1211165666@qq.com",
+    "groups": null
+},{
+    "firstname": "Chang",
+    "lastname": "Yin",
+    "idnumber": "24008973",
+    "emailaddress": "2995349260@qq.com",
+    "groups": null
+},{
+    "firstname": "Han",
+    "lastname": "Yu",
+    "idnumber": "24008995",
+    "emailaddress": "15530716885@163.com",
+    "groups": null
+},{
+    "firstname": "Xinzhe",
+    "lastname": "Yu",
+    "idnumber": "24009326",
+    "emailaddress": "1582655161@qq.com",
+    "groups": null
+},{
+    "firstname": "Fengwei",
+    "lastname": "Zhang",
+    "idnumber": "24009491",
+    "emailaddress": "79648989@qq.com",
+    "groups": null
+},{
+    "firstname": "Haoxiang",
+    "lastname": "Zhang",
+    "idnumber": "24009002",
+    "emailaddress": "2038680359@qq.com",
+    "groups": null
+},{
+    "firstname": "Jack",
+    "lastname": "Zhang",
+    "idnumber": "24009013",
+    "emailaddress": "2737856757@qq.com",
+    "groups": null
+},{
+    "firstname": "Tianyi",
+    "lastname": "Zhang",
+    "idnumber": "24008972",
+    "emailaddress": "2908676758@qq.com",
+    "groups": null
+},{
+    "firstname": "Wenhan",
+    "lastname": "Zhang",
+    "idnumber": "24009400",
+    "emailaddress": "3384155536@qq.com",
+    "groups": null
+},{
+    "firstname": "Xiao",
+    "lastname": "Zhang",
+    "idnumber": "24009323",
+    "emailaddress": "274751389@qq.com",
+    "groups": null
+},{
+    "firstname": "Xue",
+    "lastname": "Zhang",
+    "idnumber": "24009037",
+    "emailaddress": "2758077159@qq.com",
+    "groups": null
+},{
+    "firstname": "Zhanhe",
+    "lastname": "Zhang",
+    "idnumber": "24009315",
+    "emailaddress": "1415128260@qq.com",
+    "groups": null
+},{
+    "firstname": "Zikang",
+    "lastname": "Zhang",
+    "idnumber": "24009229",
+    "emailaddress": "2748683104@qq.com",
+    "groups": null
+},{
+    "firstname": "Ziyan",
+    "lastname": "Zhang",
+    "idnumber": "24009238",
+    "emailaddress": "1284745032@qq.com",
+    "groups": null
+},{
+    "firstname": "Chenhao",
+    "lastname": "Zhao",
+    "idnumber": "24008983",
+    "emailaddress": "88225848@qq.com",
+    "groups": null
+},{
+    "firstname": "Gang",
+    "lastname": "Zhao",
+    "idnumber": "24009365",
+    "emailaddress": "3132057704@qq.com",
+    "groups": null
+},{
+    "firstname": "Jinqi",
+    "lastname": "Zhao",
+    "idnumber": "24009023",
+    "emailaddress": "1958145127@qq.com",
+    "groups": null
+},{
+    "firstname": "Michael",
+    "lastname": "Zhao",
+    "idnumber": "24009233",
+    "emailaddress": "18731479891@163.com",
+    "groups": null
+},{
+    "firstname": "Kehan",
+    "lastname": "Zheng",
+    "idnumber": "24009384",
+    "emailaddress": "2254877699@qq.com",
+    "groups": null
+},{
+    "firstname": "Qijun",
+    "lastname": "Zhou",
+    "idnumber": "24009203",
+    "emailaddress": "1156491626@qq.com",
+    "groups": null
+},{
+    "firstname": "Weihan",
+    "lastname": "Zhou",
+    "idnumber": "24009399",
+    "emailaddress": "1963300949@qq.com",
+    "groups": null
+},{
+    "firstname": "Xingyao",
+    "lastname": "Zhou",
+    "idnumber": "24009021",
+    "emailaddress": "2033678108@qq.com",
+    "groups": null
+},{
+    "firstname": "Xuan",
+    "lastname": "Zhou",
+    "idnumber": "24009035",
+    "emailaddress": "1974789983@qq.com",
+    "groups": null
+},{
+    "firstname": "Ye",
+    "lastname": "Zhou",
+    "idnumber": "24009039",
+    "emailaddress": "13339345369@163.com",
+    "groups": null
+}]]
